@@ -1,0 +1,10 @@
+* diff
+
+A Common Lisp library for computing differences between files
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/sharplispers/diff.git   |
+| commit  | 9c84bef  |
+| systems | diff |
+|---------+-------------------------------------------|
+
